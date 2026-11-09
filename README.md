@@ -190,4 +190,4 @@ This repository serves as the official landing page for EVEMon. The software is 
 **Get the most recent version of EVEMon today!**
 
 ---
-**Last updated:** 2026-11-08 23:32:02 UTC
+**Last updated:** 2026-11-09 05:43:10 UTC
